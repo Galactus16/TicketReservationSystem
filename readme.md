@@ -11,7 +11,7 @@
 
 You should have git and Java on your system
 ```
-git clone 
+git clone https://github.com/Galactus16/TicketReservationSystem.git
 ```
 
 #### Building
